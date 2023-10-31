@@ -4,7 +4,7 @@ Description : In this project, we have created an JAVA Applications in which use
 
 Tools and Technolgy Used
 
-* JAVA (JDK-17)
+* JAVA (JDK-16)
 * NetBeans IDE for UI design with JAVA
 * Visual Studio Code for Running and Debugging
 
